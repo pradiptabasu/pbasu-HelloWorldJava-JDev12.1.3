@@ -31,5 +31,6 @@
       <hash><url n="URL" path="HelloWorldEJBClient/HelloWorldEJBClient.jpr"/></hash>
       <hash><url n="URL" path="HelloWorldREST/HelloWorldREST.jpr"/></hash>
       <hash><url n="URL" path="HelloWorldSOAP/HelloWorldSOAP.jpr"/></hash>
+      <hash><url n="URL" path="StatefulSOAPService/StatefulSOAPService.jpr"/></hash>
    </list>
 </jws:workspace>
